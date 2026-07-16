@@ -15,6 +15,8 @@ The OMAMA-DB contains thousands of breast cancer images with labels generated th
 
 ## The dataset is now available at the <a class='dv-glow' href='https://dataverse.harvard.edu/dataverse/omama' target='_blank'><img src='images/harvard_dataverse.png' alt='Harvard Dataverse' style='height:32px;vertical-align:middle'></a>!
 
+**New:** We now provide <a href='https://dataverse.harvard.edu/file.xhtml?fileId=14075559&version=2.0' target='_blank'>full 2D DICOM headers</a> and <a href='https://dataverse.harvard.edu/file.xhtml?fileId=14063873&version=2.0' target='_blank'>full 3D DICOM headers</a>, plus smaller subsets (<a href='https://dataverse.harvard.edu/file.xhtml?fileId=14063860' target='_blank'>2d_only_1000_images.tar</a>, <a href='https://dataverse.harvard.edu/file.xhtml?fileId=14063961' target='_blank'>3d_only_100_images.tar</a>) for faster prototyping.
+
 <div class="twocolumn">
 <h1>OMAMA-DB: the Oregon-Massachusetts Mammography Database (JMI 2026)</h1>
 <a href='/paper?kanamarlapudi2026omama'><img class='paper' src='images/jmi_paper.png'></a>
