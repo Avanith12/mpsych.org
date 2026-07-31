@@ -144,6 +144,22 @@ permalink: /people
   </div>
 </div>
 
+<div class="person">
+  <img src="/people/kurt/kurt.jpg">
+  <div class="caption">
+    Kurt Sooknanan<br>
+    <span class="role">Undergraduate Machine Psychology Fellow</span><br>
+    <span class="links">
+      <a class="cleanlink" href="/people/kurt/bio.txt">Bio</a>
+      <a class="cleanlink" href="https://kurt-sudo420.github.io/portfolio/">Website</a>
+    </span><br>
+    <div class="icons gray" style="font-size:14px;margin-left:10px">
+      <a href="https://www.linkedin.com/in/kurt-sooknanan-485494410/" target="_blank"><span class="icon-linkedin2 tooltip"><span class="tooltiptext">LinkedIn</span></span></a>
+      <a href="https://github.com/kurt-sudo420" target="_blank"><span class="icon-github tooltip"><span class="tooltiptext">GitHub</span></span></a>
+      <a href="mailto:kurt.sooknanan002@umb.edu" target="_blank"><span class="icon-email tooltip"><span class="tooltiptext">E-Mail</span></span></a>
+    </div>
+  </div>
+</div>
 
 <div class="person">
   <img src="/gfx/team.png">
@@ -155,7 +171,6 @@ permalink: /people
     </span>
   </div>
 </div>
-
 
 
 
@@ -517,3 +532,4 @@ permalink: /people
     </span>
   </div>
 </div>
+
