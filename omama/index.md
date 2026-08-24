@@ -21,13 +21,12 @@ The OMAMA-DB contains thousands of breast cancer images with labels generated th
 
 ## The dataset is now available at the <a class='dv-glow' href='https://dataverse.harvard.edu/dataverse/omama' target='_blank'><img src='images/harvard_dataverse.png' alt='Harvard Dataverse' style='height:32px;vertical-align:middle'></a>!
 
-<p><strong>New:</strong></p>
-<ul>
-<li><a href='https://dataverse.harvard.edu/file.xhtml?fileId=14075559&version=2.0' target='_blank'>Full 2D DICOM headers</a></li>
-<li><a href='https://dataverse.harvard.edu/file.xhtml?fileId=14063873&version=2.0' target='_blank'>Full 3D DICOM headers</a></li>
-<li>Smaller subsets for faster prototyping: <a href='https://dataverse.harvard.edu/file.xhtml?fileId=14063860' target='_blank'>2d_only_1000_images.tar</a>, <a href='https://dataverse.harvard.edu/file.xhtml?fileId=14063961' target='_blank'>3d_only_100_images.tar</a></li>
-<li><a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HYFOWN' target='_blank'>Multiview dataset</a></li>
-</ul>
+**New:**
+
+- [Full 2D DICOM headers](https://dataverse.harvard.edu/file.xhtml?fileId=14075559&version=2.0)
+- [Full 3D DICOM headers](https://dataverse.harvard.edu/file.xhtml?fileId=14063873&version=2.0)
+- Smaller subsets for faster prototyping: [2d_only_1000_images.tar](https://dataverse.harvard.edu/file.xhtml?fileId=14063860), [3d_only_100_images.tar](https://dataverse.harvard.edu/file.xhtml?fileId=14063961)
+- [Multiview dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HYFOWN)
 
 <div class="twocolumn">
 <h1>OMAMA-DB: the Oregon-Massachusetts Mammography Database (JMI 2026)</h1>
