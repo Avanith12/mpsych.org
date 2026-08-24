@@ -28,6 +28,10 @@ The OMAMA-DB contains thousands of breast cancer images with labels generated th
 - Smaller subsets for faster prototyping: [2d_only_1000_images.tar](https://dataverse.harvard.edu/file.xhtml?fileId=14063860), [3d_only_100_images.tar](https://dataverse.harvard.edu/file.xhtml?fileId=14063961)
 - [Multiview dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HYFOWN)
 
+# Tutorials
+
+- [How to check image coordinates](https://colab.research.google.com/drive/1IVs05S6xZoaPqNkqeyMhcniZbhQxUSE2?usp=sharing)
+
 <div class="twocolumn">
 <h1>OMAMA-DB: the Oregon-Massachusetts Mammography Database (JMI 2026)</h1>
 <a href='/paper?kanamarlapudi2026omama'><img class='paper' src='images/jmi_paper.png'></a>
