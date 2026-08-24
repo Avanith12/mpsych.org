@@ -7,7 +7,13 @@ title: The Oregon-Massachusetts Mammography Database
 
 <!-- ## We are creating the World's largest Mammography Database.  -->
 
-<a href='images/Omama-DB2026.pdf' target='_blank'><img src='images/Omama-DB2026.png' style='border:solid thin black;width:500px'></a>
+<div class="twocolumn">
+<a href='images/Omama-DB2026.pdf' target='_blank'><img src='images/Omama-DB2026.png' style='border:solid thin black;width:100%'></a>
+</div>
+<div class="twocolumn">
+<a href='images/Omama-DB_Multiview.pdf' target='_blank'><img src='images/Omama-DB_Multiview.png' style='border:solid thin black;width:100%'></a>
+</div>
+<br style="clear:both">
 
 The OMAMA-DB contains thousands of breast cancer images with labels generated through a partnership with <a href='https://deep.health'>deep.health</a>.
 
@@ -15,7 +21,13 @@ The OMAMA-DB contains thousands of breast cancer images with labels generated th
 
 ## The dataset is now available at the <a class='dv-glow' href='https://dataverse.harvard.edu/dataverse/omama' target='_blank'><img src='images/harvard_dataverse.png' alt='Harvard Dataverse' style='height:32px;vertical-align:middle'></a>!
 
-**New:** We now provide <a href='https://dataverse.harvard.edu/file.xhtml?fileId=14075559&version=2.0' target='_blank'>full 2D DICOM headers</a> and <a href='https://dataverse.harvard.edu/file.xhtml?fileId=14063873&version=2.0' target='_blank'>full 3D DICOM headers</a>, plus smaller subsets (<a href='https://dataverse.harvard.edu/file.xhtml?fileId=14063860' target='_blank'>2d_only_1000_images.tar</a>, <a href='https://dataverse.harvard.edu/file.xhtml?fileId=14063961' target='_blank'>3d_only_100_images.tar</a>) for faster prototyping.
+<p><strong>New:</strong></p>
+<ul>
+<li><a href='https://dataverse.harvard.edu/file.xhtml?fileId=14075559&version=2.0' target='_blank'>Full 2D DICOM headers</a></li>
+<li><a href='https://dataverse.harvard.edu/file.xhtml?fileId=14063873&version=2.0' target='_blank'>Full 3D DICOM headers</a></li>
+<li>Smaller subsets for faster prototyping: <a href='https://dataverse.harvard.edu/file.xhtml?fileId=14063860' target='_blank'>2d_only_1000_images.tar</a>, <a href='https://dataverse.harvard.edu/file.xhtml?fileId=14063961' target='_blank'>3d_only_100_images.tar</a></li>
+<li><a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HYFOWN' target='_blank'>Multiview dataset</a></li>
+</ul>
 
 <div class="twocolumn">
 <h1>OMAMA-DB: the Oregon-Massachusetts Mammography Database (JMI 2026)</h1>
